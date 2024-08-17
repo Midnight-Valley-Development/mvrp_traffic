@@ -13,7 +13,7 @@ server_scripts {
 }
 
 client_scripts {
-    "traffic.lua"
+    "config.lua"
 }
 
 lua54 'yes'
